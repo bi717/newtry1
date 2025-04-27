@@ -5,7 +5,7 @@
   <title>美麗媽的秘製食譜</title>
 
   <!-- 引用可愛字體 -->
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=ZCOOL+KuaiLe&display=swap" rel="stylesheet">
+ "Patrick Hand"
 
   <style>
     /* 密碼錯誤時的畫面 */
@@ -24,7 +24,7 @@
     /* 正常模式下的網站樣式 */
     body {
       font-family: 'Noto Sans TC', sans-serif;
-      background: url('https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?auto=format&fit=crop&w=1050&q=80') no-repeat center center fixed;
+      background:#FFE0AC
       background-size: cover;
       margin: 0;
       padding: 20px;
